@@ -680,6 +680,17 @@ gjDA_mvR gjDA_mvR
 gjSHA_mvR gjSHA_mvR
 gjHA_mvR gjHA_mvR
 
+gjCHA.alt gjCHA.alt
+gjH.alt gjH.alt
+gjH_MA.alt gjH_MA.alt
+gjHA.devanagari gjHA.devanagari
+gjJA_mII.alt gjJA_mII.alt
+gjJ_RA_mII.alt gjJ_RA_mII.alt
+gjH_YA.alt gjH_YA.alt
+gjL_V_DA gjL_V_DA
+gjK_THA gjK_THA
+gjHA.alt gjHA.alt
+
 # Adobe Latin 3
 
 # space space uni0020 # SPACE
