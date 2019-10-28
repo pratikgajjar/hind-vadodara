@@ -2,7 +2,6 @@
 *.pyc
 *.ufo
 *(Autosaved).glyphs
-font.designspace
 FontMenuNameDB
-instances/
 mutatorMath.log
+v-env/

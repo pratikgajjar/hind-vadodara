@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="3">
+ <axes>
+  <axis minimum="300" maximum="700" tag="wght" name="weight" default="300">
+   <labelname xml:lang="en">Weight</labelname>
+   <map output="0" input="300"/>
+   <map output="100" input="700"/>
+  </axis>
+ </axes>
+ <sources>
+  <source stylename="Light" name="Light" familyname="Hind Vadodara" filename="masters/HindVadodara-Light.ufo">
+   <lib copy="1"/>
+   <groups copy="1"/>
+   <info copy="1"/>
+   <features copy="1"/>
+   <location>
+    <dimension name="weight" xvalue="0"/>
+   </location>
+  </source>
+  <source stylename="Bold" name="Bold" familyname="Hind Vadodara" filename="masters/HindVadodara-Bold.ufo">
+   <location>
+    <dimension name="weight" xvalue="100"/>
+   </location>
+  </source>
+ </sources>
+ <instances>
+  <instance stylename="Light" name="Light" familyname="Hind Vadodara" filename="instances/HindVadodara-Light.ufo">
+   <location>
+    <dimension name="weight" xvalue="0"/>
+   </location>
+  </instance>
+  <instance stylename="Regular" name="Regular" familyname="Hind Vadodara" filename="instances/HindVadodara-Regular.ufo">
+   <location>
+    <dimension name="weight" xvalue="21"/>
+   </location>
+  </instance>
+  <instance stylename="Medium" name="Medium" familyname="Hind Vadodara" filename="instances/HindVadodara-Medium.ufo">
+   <location>
+    <dimension name="weight" xvalue="44"/>
+   </location>
+  </instance>
+  <instance stylename="SemiBold" name="SemiBold" familyname="Hind Vadodara" filename="instances/HindVadodara-SemiBold.ufo">
+   <location>
+    <dimension name="weight" xvalue="70"/>
+   </location>
+  </instance>
+  <instance stylename="Bold" name="Bold" familyname="Hind Vadodara" filename="instances/HindVadodara-Bold.ufo">
+   <location>
+    <dimension name="weight" xvalue="100"/>
+   </location>
+  </instance>
+ </instances>
+</designspace>
