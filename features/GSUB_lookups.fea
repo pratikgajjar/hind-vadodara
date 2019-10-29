@@ -677,7 +677,7 @@ lookup pres_old {
 
 } pres_old;
 
-include (matra_i_matching.fea);
+#include (matra_i_matching.fea);
 
 
 # Above-base Substitution
